@@ -83,7 +83,7 @@
                     <hr>
                 </div>
                 <div class="col-md-6">
-                    <img class="img-responsive img-border-left" src="img/slide-1.jpg" alt="">
+                    <img class="img-responsive img-border-left" src="https://lh4.googleusercontent.com/YSTBQRgIwUcD8kx0jf7ie1uvhR03W6qCoPgkvNVrODaHof1h-voHnCA66LI2e4ail90RjVjzUhQlWKk=w1342-h523-rw" alt="">
                 </div>
                 <div class="col-md-6">
 					<p>Rajesh - From RVCE College</p>
@@ -112,7 +112,7 @@
                     <hr>
                 </div>
                 <div class="col-sm-4 text-center">
-                    <img class="img-responsive" src="img/arise.jpg" alt="">
+                    <img class="img-responsive" src="https://lh4.googleusercontent.com/vUNs9_EPdWI5FSxvd9q9ikkezFfqmBUM0JzvXpsEal7vFpIZuB1ZjG4A3y_QjYMVRR2ADa0h35h4_jc=w1342-h523" alt="">
                     <h3>Arise </h3>
                 </div>
                 <div class="col-sm-4 text-center">

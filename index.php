@@ -87,13 +87,13 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                             <div class="item active">
-                                <img class="img-responsive img-full" src="img/slide-1.jpg" alt="">
+                                <img class="img-responsive img-full" src="https://lh4.googleusercontent.com/YSTBQRgIwUcD8kx0jf7ie1uvhR03W6qCoPgkvNVrODaHof1h-voHnCA66LI2e4ail90RjVjzUhQlWKk=w1342-h523-rw" alt="">
                             </div>
                             <div class="item">
-                                <img class="img-responsive img-full" src="img/slide-2.jpg" alt="">
+                                <img class="img-responsive img-full" src="https://lh3.googleusercontent.com/s4MpdsYV9h7T4M50aN8xJL3dGGSfyE9x5sHnLXDSbv_7s02MegErn1BKG7HtzsTipZ7sJmWQd1paEhM=w1342-h523-rw" alt="">
                             </div>
                             <div class="item">
-                                <img class="img-responsive img-full" src="img/slide-3.jpg" alt="">
+                                <img class="img-responsive img-full" src="https://lh4.googleusercontent.com/T938XJ7QOPzrFV-wzz9WdeVC8EJki-4A_nnJ6N8tClZHEaHdUkszUluw9jym5HhbFhrENey2xswmA58=w1342-h523-rw" alt="">
                             </div>
                         </div>
 
